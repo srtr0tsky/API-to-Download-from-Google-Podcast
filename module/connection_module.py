@@ -2,7 +2,7 @@
 """
 Created on Thu Aug 25 23:51:48 2022
 
-@author: bispo
+@author: Vinicius Bispo
 """
 from selenium import webdriver 
 from selenium.webdriver.firefox.options import Options
