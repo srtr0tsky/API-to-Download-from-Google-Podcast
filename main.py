@@ -1,3 +1,9 @@
+"""
+Created on Sat Aug 25 01:08:29 2022
+
+@author: Vinicius Bispo
+"""
+
 from selenium.webdriver.common.by import By
 import module.connection_module as website
 # Script to make download in site Google Podcasts 
