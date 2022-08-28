@@ -59,7 +59,6 @@ class WebConnect:
          FEED_URL = classSYMOW.text
          return [FEED_URL, PODCAST_NAME]
      
-    def remove_spec_character(text): pass    
 
 if __name__ == "__main__":
     WebConnect()
